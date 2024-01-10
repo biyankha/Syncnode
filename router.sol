@@ -2,7 +2,7 @@
 //    __|                    __|                     
 //  \__ \  |  |    \    _| \__ \ \ \  \ /  _` |  _ \ 
 //  ____/ \_, | _| _| \__| ____/  \_/\_/ \__,_| .__/ 
-//        ___/                                 _|    
+//        ___/                                 _|    \\
 //
 // SyncSwap is a decentralized exchange on Ethereum L2 Rollups.
 //

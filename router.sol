@@ -7,7 +7,7 @@
 // SyncSwap is a decentralized exchange on Ethereum L2 Rollups.
 //
 // API Documentation
-// https://syncswap.gitbook.io/api-documentation/.
+// https://syncswap.gitbook.io/api-documentation/...
 
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
